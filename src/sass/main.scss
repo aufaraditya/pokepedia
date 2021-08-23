@@ -1,0 +1,34 @@
+// $primary:;
+@import '../../node_modules/bootstrap/scss/_functions';
+@import '../../node_modules/bootstrap/scss/_variables';
+
+
+$custom-theme-colors:(
+    "bug":  #A8B820,
+    "water": #6890F0,
+    "fire": #F08030,
+    "steel": #B8B8D0,
+    "poison": #A040A0,
+    "rock": #B8A038,
+    "dragon": #7038F8,
+    "ghost": #705898,
+    "dark": #705848,
+    "electric": #F8D030,
+    "ground": #E0C068,
+    "fairy": #EE99AC,
+    "fighting": #C03028,
+    "flying" : #A890F0,
+    "ice": #98D8D8,
+    "normal": #A8A878,
+    "psychic": #F85888,
+    "grass": #78C850,
+    "unknown": #68A090
+);
+
+$theme-colors:map-merge($custom-theme-colors , $theme-colors );
+
+// @import '.../node_modules/bootstrap/scss/bootstrap';
+@import '../../node_modules/bootstrap/scss/bootstrap';
+
+
+
