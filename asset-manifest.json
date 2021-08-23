@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pokepedia/static/css/main.b49af3f1.chunk.css",
+    "main.js": "/pokepedia/static/js/main.7bc2d169.chunk.js",
+    "main.js.map": "/pokepedia/static/js/main.7bc2d169.chunk.js.map",
+    "runtime-main.js": "/pokepedia/static/js/runtime-main.df7b270d.js",
+    "runtime-main.js.map": "/pokepedia/static/js/runtime-main.df7b270d.js.map",
+    "static/js/2.2acf8d87.chunk.js": "/pokepedia/static/js/2.2acf8d87.chunk.js",
+    "static/js/2.2acf8d87.chunk.js.map": "/pokepedia/static/js/2.2acf8d87.chunk.js.map",
+    "static/js/3.4b5bcc40.chunk.js": "/pokepedia/static/js/3.4b5bcc40.chunk.js",
+    "static/js/3.4b5bcc40.chunk.js.map": "/pokepedia/static/js/3.4b5bcc40.chunk.js.map",
+    "index.html": "/pokepedia/index.html",
+    "static/css/main.b49af3f1.chunk.css.map": "/pokepedia/static/css/main.b49af3f1.chunk.css.map",
+    "static/js/2.2acf8d87.chunk.js.LICENSE.txt": "/pokepedia/static/js/2.2acf8d87.chunk.js.LICENSE.txt",
+    "static/media/Logo.684b4db9.png": "/pokepedia/static/media/Logo.684b4db9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df7b270d.js",
+    "static/js/2.2acf8d87.chunk.js",
+    "static/css/main.b49af3f1.chunk.css",
+    "static/js/main.7bc2d169.chunk.js"
+  ]
+}
