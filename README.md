@@ -48,7 +48,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Simple Web app that consume data from PokeAPI. The purpose is to only show information about pokemon.
 
-
+The App Demo [Pokepedia](http://aufaraditya.github.io/pokepedia).
 
 ## What to Improve
 
