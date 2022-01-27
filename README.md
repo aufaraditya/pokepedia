@@ -50,6 +50,8 @@ Simple Web app that consume data from PokeAPI. The purpose is to only show infor
 
 The App Demo [Pokepedia](http://aufaraditya.github.io/pokepedia).
 
+![Screenshot 2022-01-22 191815](https://user-images.githubusercontent.com/5984684/151357045-75959037-ab65-4502-8ba9-08401ea26062.png)
+
 ## What to Improve Next
 
 1. Responsive Layout especially regarding Navbar (When Toogle)
